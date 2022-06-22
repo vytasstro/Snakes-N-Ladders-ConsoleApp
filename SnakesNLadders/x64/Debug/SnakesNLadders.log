@@ -1,0 +1,3 @@
+﻿  SnakesNLadders.cpp
+C:\Users\vytas\source\repos\vytasstro\Snakes-N-Ladders-ConsoleApp\SnakesNLadders\SnakesNLadders.cpp(328,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakesNLadders.vcxproj -> C:\Users\vytas\Source\Repos\vytasstro\Snakes-N-Ladders-ConsoleApp\x64\Debug\SnakesNLadders.exe

@@ -1,0 +1,11 @@
+document.txt has to be in the same folder as SnakesNLadders.cpp
+
+document.txt sample:
+100         //number of tiles on the board
+5 9         //All the other lines represent placed snakes and ladders, program automatically detects if it's a snake or a ladder
+6 2
+10 15
+90 20
+35 21
+60 63
+80 52
